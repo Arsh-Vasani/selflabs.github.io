@@ -1,5 +1,5 @@
-const nexticon = '<../img src="images/next-btn.png" alt="next">';
-const prewicon = '<../img src="images/prew-btn.png" alt="prew">';
+const nexticon = '<img src="../images/next-btn.png" alt="next">';
+const prewicon = '<img src="../images/prew-btn.png" alt="prew">';
 $('.goals').owlCarousel({
     loop:false,
     nav:true,
